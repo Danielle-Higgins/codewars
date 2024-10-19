@@ -1,6 +1,7 @@
 # Codewars Challenges: <a target="_blank" href="https://www.codewars.com/users/Danielle-Higgins">Visit Here</a>
 
-<a target="_blank" href=""><img src=""></a>
+<img src="https://github.com/Danielle-Higgins/codewars/blob/main/codewars1.png">
+<img src="">
 
 Welcome to my Codewars Repository! This Repository showcases my solutions to various coding challenges on Codewars, covering a range of programming languages that I use and difficulty levels. It's a testament to my continuous learning and problem solving abilities.
 
