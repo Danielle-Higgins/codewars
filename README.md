@@ -5,9 +5,9 @@
 
 Welcome to my Codewars Repository! This Repository showcases my solutions to various coding challenges on Codewars, covering a range of programming languages that I use and difficulty levels. It's a testament to my continuous learning and problem solving abilities.
 
-## How It's Made
+## Tech Used
 
-**Tech used:** <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
+<img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
 
 I complete at least one Codewars Challenge everyday!
 
