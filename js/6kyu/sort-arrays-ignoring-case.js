@@ -3,7 +3,7 @@
 // ["Hello", "there", "I'm", "fine"]  -->  ["fine", "Hello", "I'm", "there"]
 // ["C", "d", "a", "B"])              -->  ["a", "B", "C", "d"]
 
-// My solution
+// My solution1
 // input: names - unsorted strings
 // output: case-agnostic sort
 function sortme(names) {
